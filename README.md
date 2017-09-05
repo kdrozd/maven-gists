@@ -1,2 +1,5 @@
 # maven-gists
-Maven configurations that can be usefull
+
+Maven snipets
+
+* Upload to P2 with FTP: [UploadToP2RepositoryWithFTP](UploadToP2RepositoryWithFTP.md)
