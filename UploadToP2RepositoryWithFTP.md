@@ -92,3 +92,6 @@ This is example configuration:
      <activeProfiles/>
 </settings>
 ```
+
+### Upload
+Run `mvn install -P ${profileName}`
